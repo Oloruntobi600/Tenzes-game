@@ -7,6 +7,7 @@
     <list default="true" id="ed18a6f8-3e9a-4cf1-92d8-5b18fa0d66a6" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/.babelrc" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
@@ -15,6 +16,8 @@
       <change afterPath="$PROJECT_DIR$/die.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.pack.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.pack.js.LICENSE.txt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/webpack.config.js" afterDir="false" />
@@ -68,6 +71,9 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\bayod\IdeaProjects\Tenzes-game" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\bayod\IdeaProjects\Tenzes-game" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -78,7 +84,7 @@
       <option name="presentableId" value="Default" />
       <updated>1719655237817</updated>
       <workItem from="1719655239243" duration="1000" />
-      <workItem from="1719667118312" duration="663000" />
+      <workItem from="1719667118312" duration="1041000" />
     </task>
     <servers />
   </component>
